@@ -118,6 +118,8 @@ This is a paper list of Simultaneous Translation, organized by publication year.
 
 ###  2017
 
+- Online and Linear-Time Attention by Enforcing Monotonic Alignments. *ICML 2017*. [[PDF](https://arxiv.org/pdf/1704.00784.pdf)] [[Code](https://github.com/craffel/mad)]
+
 - Learning to Translate in Real-time with Neural Machine Translation. *EACL 2017*.  [[PDF](https://aclanthology.org/E17-1099)] [[Code](https://github.com/yifanjun233/dl4mt-simul-trans)]
 
 
@@ -134,6 +136,8 @@ This is a paper list of Simultaneous Translation, organized by publication year.
 - Prediction Improves Simultaneous Neural Machine Translation. *EMNLP 2018*. [[PDF](https://aclanthology.org/D18-1337)]
 
 - KIT Lecture Translator: Multilingual Speech Translation with One-Shot Learning. *COLING 2018*. [[PDF](https://aclanthology.org/C18-2020)]
+
+- Monotonic Chunkwise Attention. *ICLR 2018*. [[PDF](https://openreview.net/pdf?id=Hko85plCW)]  [[code](https://github.com/craffel/mocha)] 
 
 
 ###  2019
