@@ -1,6 +1,6 @@
 # Awesome Simultaneous Translation
 
-This repository collects the tookits, common datasets and paper list related to the research on **Simultaneous Translation**. It is a great honor if this repository brings some help or reference to your research.
+This repository collects the tookits, common datasets and paper list related to the research on **Simultaneous Translation**. It is a great honor if this repository brings some help or reference to your research.:blush:
 
 This repository is continuously updating...
 
@@ -337,7 +337,7 @@ This is a paper list of Simultaneous Translation, organized by publication year.
 
 ## Contact
 
-If this repository is helpful to you, welcome to `star` it!
+If this repository is helpful to you, welcome to :star: it !
 
 If you have any suggestions or some related papers are not included, feel free to contact me with: `zhangshaolei20z@ict.ac.cn`.
 
