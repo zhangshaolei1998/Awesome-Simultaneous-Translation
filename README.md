@@ -13,6 +13,8 @@ This repository is continuously updating...
 - [Fairseq](https://github.com/pytorch/fairseq): a sequence modeling toolkit, covering the machine translation, speech translation and simultaneous translation (both text-to-text and speech-to-text).
 - [SimulEval](https://github.com/facebookresearch/SimulEval): a general evaluation framework for simultaneous translation on text and speech.
 
+
+
 ## Datasets
 
 - Conventional text-to-text translation dataset:
@@ -25,6 +27,8 @@ This repository is continuously updating...
   - **BSTC Chinese-English**: 68 hours. [[Link](https://ai.baidu.com/broad/introduction?dataset=bstc)]
   - **NAIST-SIC English-Japanese**: 22 hours.[[Link](https://dsc-nlp.naist.jp/data/NAIST-SIC/)]
 
+
+
 ## Tutorials & Talks
 
 PACLIC 2016: **The Challenge of Simultaneous Speech Translation**. Anoop Sarkar. [[Link](https://aclanthology.org/Y16-1003)]
@@ -33,9 +37,11 @@ EMNLP 2020: **Simultaneous Translation**. Liang Huang, Colin Cherry, Mingbo Ma, 
 
 AMTA 2020: **Simultaneous Speech Translation in Google Translate**. Jeff Pitman. [[Link](https://aclanthology.org/attachments/2020.amta-user.17.Presentation.pdf)]
 
+
+
 ## Paper List
 
-This is a paper list of simultaneous translation, organized by year. 
+This is a paper list of Simultaneous Translation, organized by publication year. 
 
 ### 2002
 
@@ -246,6 +252,8 @@ From Simultaneous to Streaming Machine Translation by Leveraging Streaming Histo
 
 Gaussian Multi-head Attention for Simultaneous Machine Translation. *ACL 2022 findings*. [[PDF](https://arxiv.org/pdf/2203.09072)] [[Code](https://github.com/ictnlp/GMA)]
 
+
+
 ## Workshops
 
 ### IWSLT 2020
@@ -306,13 +314,18 @@ System Description on Automatic Simultaneous Translation Workshop. [[PDF](https:
 
 BSTC: A Large-Scale Chinese-English Speech Translation Dataset. [[PDF](https://aclanthology.org/2021.autosimtrans-1.5/)]
 
+
+
 ## Contact
 
-If this project is helpful to you, welcome to `star` it!
+If this repository is helpful to you, welcome to `star` it!
 
 If you have any suggestions or some related papers are not included, feel free to contact me with: `zhangshaolei20z@ict.ac.cn`.
 
-Shaolei Zhang
-Ph.D. Student Candidate
-Key Lab. of Intelligent Information Processing
-Institute of Computing Technology, Chinese Academy of Sciences
+> Shaolei Zhang
+>
+> Ph.D. Student Candidate
+>
+> Key Lab. of Intelligent Information Processing
+>
+> Institute of Computing Technology, Chinese Academy of Sciences
