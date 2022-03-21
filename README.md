@@ -133,7 +133,7 @@ This is a paper list of Simultaneous Translation, organized by publication year.
 
 -  Statistical Analysis of Missing Translation in Simultaneous Interpretation Using A Large-scale Bilingual Speech Corpus. *LREC 2018*. [[PDF](https://aclanthology.org/L18-1676)]
 
-- Prediction Improves Simultaneous Neural Machine Translation. *EMNLP 2018*. [[PDF](https://aclanthology.org/D18-1337)]
+- Prediction Improves Simultaneous Neural Machine Translation. *EMNLP 2018*. [[PDF](https://aclanthology.org/D18-1337)] [[Code](https://github.com/ashkanalinejad/Real-time-translator)]
 
 - KIT Lecture Translator: Multilingual Speech Translation with One-Shot Learning. *COLING 2018*. [[PDF](https://aclanthology.org/C18-2020)]
 
