@@ -137,7 +137,7 @@ This is a paper list of Simultaneous Translation, organized by publication year.
 
 - KIT Lecture Translator: Multilingual Speech Translation with One-Shot Learning. *COLING 2018*. [[PDF](https://aclanthology.org/C18-2020)]
 
-- Monotonic Chunkwise Attention. *ICLR 2018*. [[PDF](https://openreview.net/pdf?id=Hko85plCW)]  [[code](https://github.com/craffel/mocha)] 
+- Monotonic Chunkwise Attention. *ICLR 2018*. [[PDF](https://openreview.net/pdf?id=Hko85plCW)]  [[Code](https://github.com/craffel/mocha)] 
 
 
 ###  2019
