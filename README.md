@@ -263,7 +263,7 @@ This is a paper list of Simultaneous Translation, organized by publication year.
 
 ### 2022
 
-- Modeling Dual Read/Write Paths for Simultaneous Machine Translation. *ACL 2022*. [[PDF](https://arxiv.org/pdf/2203.09163)] [[Code](https://github.com/ictnlp/Dual-Paths)]
+- Modeling Dual Read/Write Paths for Simultaneous Machine Translation. *ACL 2022*. [[PDF](https://arxiv.org/pdf/2203.09163)] [[Code](https://github.com/ictnlp/Dual-Path)]
 
 - Reducing Position Bias in Simultaneous Machine Translation with Length-Aware Framework. *ACL 2022*. [[PDF](https://arxiv.org/pdf/2203.09053)]
 
