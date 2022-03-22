@@ -20,7 +20,7 @@ This repository is continuously updating...
 - Conventional text-to-text translation dataset:
   - **IWSLT15 English-Vietnamese**: 133K sentence pairs. [[Link](https://nlp.stanford.edu/projects/nmt/)]
   - **WMT15 German-English**: 4.5M sentence pairs. [[Link](https://www.statmt.org/wmt15/)]
-  - **WMT14 English-French**: 36.3 sentence pairs. [[Link](https://www.statmt.org/wmt14/)]
+  - **WMT14 English-French**: 36.3M sentence pairs. [[Link](https://www.statmt.org/wmt14/)]
 - Conventional speech-to-text translation dataset:
   - **MuST-C**: multilingual speech-to-text translation corpus with 8 language pairs. [[Link](https://ict.fbk.eu/must-c)]
 - Simultaneous Interpretation Datasets:
