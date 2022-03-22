@@ -306,7 +306,8 @@ This is a paper list of Simultaneous Translation, organized by publication year.
 
 - Simultaneous Speech Translation for Live Subtitling: from Delay to Display. [[PDF](https://aclanthology.org/2021.mtsummit-asltrw.4)]
 
-- ### IWSLT 2021
+### IWSLT 2021
+
 - The USTC-NELSLIP Systems for Simultaneous Speech Translation Task at IWSLT 2021. [[PDF](https://aclanthology.org/2021.iwslt-1.2)]
 
 - NAIST English-to-Japanese Simultaneous Translation System for IWSLT 2021 Simultaneous Text-to-text Task. [[PDF](https://aclanthology.org/2021.iwslt-1.3)]
@@ -322,7 +323,6 @@ This is a paper list of Simultaneous Translation, organized by publication year.
 - Towards the evaluation of automatic simultaneous speech translation from a communicative perspective. [[PDF](https://aclanthology.org/2021.iwslt-1.29)]
 
 - Tag Assisted Neural Machine Translation of Film Subtitles. [[PDF](https://aclanthology.org/2021.iwslt-1.30)]
-
 
 ### AutoSimTrans 2021
 
