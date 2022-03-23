@@ -17,13 +17,13 @@ This repository is continuously updating...
 
 ## Datasets
 
-- Conventional text-to-text translation dataset:
+- Conventional text-to-text translation datasets:
   - **IWSLT15 English-Vietnamese**: 133K sentence pairs. [[Link](https://nlp.stanford.edu/projects/nmt/)]
   - **WMT15 German-English**: 4.5M sentence pairs. [[Link](https://www.statmt.org/wmt15/)]
   - **WMT14 English-French**: 36.3M sentence pairs. [[Link](https://www.statmt.org/wmt14/)]
-- Conventional speech-to-text translation dataset:
+- Conventional speech-to-text translation datasets:
   - **MuST-C**: multilingual speech-to-text translation corpus with 8 language pairs. [[Link](https://ict.fbk.eu/must-c)]
-- Simultaneous Interpretation Datasets:
+- Simultaneous interpretation datasets:
   - **BSTC Chinese-English**: 68 hours. [[Link](https://ai.baidu.com/broad/introduction?dataset=bstc)]
   - **NAIST-SIC English-Japanese**: 22 hours.[[Link](https://dsc-nlp.naist.jp/data/NAIST-SIC/)]
 
@@ -250,7 +250,7 @@ This is a paper list of Simultaneous Translation, organized by publication year.
 
 - Faster Re-translation Using Non-Autoregressive Model For Simultaneous Neural Machine Translation. *Arxiv 2021*. [[PDF](https://arxiv.org/pdf/2012.14681)]
 
-- Learn to Use Future Informationin Simultaneous Translation. *Arxiv 2021* [[PDF](https://arxiv.org/pdf/2007.05290)]
+- Learning to Use Future Information in Simultaneous Translation. *Arxiv 2021* [[PDF](https://arxiv.org/pdf/2007.05290)]
 
 - Simultaneous Multi-Pivot Neural Machine Translation. *Arxiv 2021*. [[PDF](https://arxiv.org/pdf/2104.07410)]
 
