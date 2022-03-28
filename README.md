@@ -43,6 +43,8 @@ AMTA 2020: **Simultaneous Speech Translation in Google Translate**. Jeff Pitman.
 
 This is a paper list of Simultaneous Translation, organized by publication year. 
 
+We also collect a paper list organized by different categories. Refer to [Here](https://github.com/Vily1998/Awesome-Simultaneous-Translation/blob/main/Papers%20by%20Categories.md).
+
 ### 2002
 
 - Translation Unit Concerning Timing of Simultaneous Translation. *LREC 2002*. [[PDF](http://www.lrec-conf.org/proceedings/lrec2002/pdf/136.pdf)]
