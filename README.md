@@ -265,13 +265,17 @@ We also collect a paper list organized by different categories. Refer to [Here](
 
 ### 2022
 
-- Modeling Dual Read/Write Paths for Simultaneous Machine Translation. *ACL 2022*. [[PDF](https://arxiv.org/pdf/2203.09163)] [[Code](https://github.com/ictnlp/Dual-Path)]
+- Modeling Dual Read/Write Paths for Simultaneous Machine Translation. *ACL 2022*. [[PDF](https://aclanthology.org/2022.acl-long.176.pdf)] [[Code](https://github.com/ictnlp/Dual-Path)]
 
-- Reducing Position Bias in Simultaneous Machine Translation with Length-Aware Framework. *ACL 2022*. [[PDF](https://arxiv.org/pdf/2203.09053)]
+- Reducing Position Bias in Simultaneous Machine Translation with Length-Aware Framework. *ACL 2022*. [[PDF](https://aclanthology.org/2022.acl-long.467.pdf)]
 
-- From Simultaneous to Streaming Machine Translation by Leveraging Streaming History. *ACL 2022*. [[PDF](https://arxiv.org/pdf/2203.02459)] 
+- From Simultaneous to Streaming Machine Translation by Leveraging Streaming History. *ACL 2022*. [[PDF](https://aclanthology.org/2022.acl-long.480.pdf)] 
 
-- Gaussian Multi-head Attention for Simultaneous Machine Translation. *ACL 2022 findings*. [[PDF](https://arxiv.org/pdf/2203.09072)] [[Code](https://github.com/ictnlp/GMA)]
+- Learning When to Translate for Streaming Speech. *ACL 2022*. [[PDF](https://aclanthology.org/2022.acl-long.50.pdf)] [[Code](https://github.com/dqqcasia/mosst)]
+
+- Learning Adaptive Segmentation Policy for End-to-End Simultaneous Translation. *ACL 2022*. [[PDF](https://aclanthology.org/2022.acl-long.542.pdf)] 
+
+- Gaussian Multi-head Attention for Simultaneous Machine Translation. *ACL 2022 findings*. [[PDF](https://aclanthology.org/2022.findings-acl.238.pdf)] [[Code](https://github.com/ictnlp/GMA)]
 
 
 
@@ -338,6 +342,24 @@ We also collect a paper list organized by different categories. Refer to [Here](
 
 - BSTC: A Large-Scale Chinese-English Speech Translation Dataset. [[PDF](https://aclanthology.org/2021.autosimtrans-1.5/)]
 
+### IWSLT 2021
+
+- Simultaneous Neural Machine Translation with Prefix Alignment. [[PDF](https://aclanthology.org/2022.iwslt-1.3.pdf)]
+
+- Anticipation-Free Training for Simultaneous Machine Translation. [[PDF](https://aclanthology.org/2022.iwslt-1.5.pdf)]
+
+- The AISP-SJTU Simultaneous Translation System for IWSLT 2022. [[PDF](https://aclanthology.org/2022.iwslt-1.16.pdf)]
+
+- The Xiaomi Text-to-Text Simultaneous Speech Translation System for IWSLT 2022. [[PDF](https://aclanthology.org/2022.iwslt-1.17.pdf)]
+
+- The HW-TSC’s Simultaneous Speech Translation System for IWSLT 2022
+Evaluation. [[PDF](https://aclanthology.org/2022.iwslt-1.21.pdf)]
+
+- MLLP-VRAIN UPV systems for the IWSLT 2022 Simultaneous Speech Translation and Speech-to-Speech Translation tasks. [[PDF](https://aclanthology.org/2022.iwslt-1.22.pdf)]
+
+- CUNI-KIT System for Simultaneous Speech Translation Task at IWSLT 2022. [[PDF](https://aclanthology.org/2022.iwslt-1.24.pdf)]
+
+- NAIST Simultaneous Speech-to-Text Translation System for IWSLT 2022. [[PDF](https://aclanthology.org/2022.iwslt-1.25.pdf)]
 
 
 
