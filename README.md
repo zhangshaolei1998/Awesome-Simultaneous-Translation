@@ -342,7 +342,7 @@ We also collect a paper list organized by different categories. Refer to [Here](
 
 - BSTC: A Large-Scale Chinese-English Speech Translation Dataset. [[PDF](https://aclanthology.org/2021.autosimtrans-1.5/)]
 
-### IWSLT 2021
+### IWSLT 2022
 
 - Simultaneous Neural Machine Translation with Prefix Alignment. [[PDF](https://aclanthology.org/2022.iwslt-1.3.pdf)]
 
