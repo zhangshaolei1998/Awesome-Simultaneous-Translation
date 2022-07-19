@@ -277,6 +277,7 @@ We also collect a paper list organized by different categories. Refer to [Here](
 
 - Gaussian Multi-head Attention for Simultaneous Machine Translation. *ACL 2022 findings*. [[PDF](https://aclanthology.org/2022.findings-acl.238.pdf)] [[Code](https://github.com/ictnlp/GMA)]
 
+- Language Model Augmented Monotonic Attention for Simultaneous Translation. *NAACL 2022*. [[PDF](https://aclanthology.org/2022.naacl-main.3.pdf)]
 
 
 
