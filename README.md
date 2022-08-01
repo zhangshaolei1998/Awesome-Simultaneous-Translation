@@ -367,3 +367,5 @@ If you have any suggestions or some related papers are not included, feel free t
 > Key Lab. of Intelligent Information Processing
 >
 > Institute of Computing Technology, Chinese Academy of Sciences
+
+[![Stargazers repo roster for @Vily1998/Awesome-Simultaneous-Translation](https://reporoster.com/stars/Vily1998/Awesome-Simultaneous-Translation)](https://github.com/Vily1998/Awesome-Simultaneous-Translation/stargazers)
