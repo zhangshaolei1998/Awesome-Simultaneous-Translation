@@ -4,10 +4,6 @@ This repository collects the tookits, common datasets and paper list related to 
 
 It is a great honor if this repository brings some help or reference to your research.:blush: 
 
-_Thanks to everyone having starred this repo!_ 
-
-[![Stargazers repo roster for @Vily1998/Awesome-Simultaneous-Translation](https://git-lister.onrender.com/api/stars/Vily1998/Awesome-Simultaneous-Translation?limit=60)](https://github.com/Vily1998/Awesome-Simultaneous-Translation/stargazers)
-
 <img src="./wordcloud.png" alt="wordcloud" style="zoom: 33%;" />
 
 
@@ -359,13 +355,15 @@ Evaluation. [[PDF](https://aclanthology.org/2022.iwslt-1.21.pdf)]
 
 ## Contact
 
-If this repository is helpful to you, welcome to :star: it !
+If this repository is helpful to you, welcome to :star: it ! _Thanks to everyone having starred this repository!_ 
+
+[![Stargazers repo roster for @Vily1998/Awesome-Simultaneous-Translation](https://git-lister.onrender.com/api/stars/Vily1998/Awesome-Simultaneous-Translation?limit=60)](https://github.com/Vily1998/Awesome-Simultaneous-Translation/stargazers)
 
 If you have any suggestions or some related papers are not included, feel free to contact me with: `zhangshaolei20z@ict.ac.cn`.
 
 > Shaolei Zhang
 >
-> Ph.D. Student Candidate
+> Ph.D. Student Candidate (2020 ~ 2025)
 >
 > Key Lab. of Intelligent Information Processing
 >
