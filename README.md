@@ -167,29 +167,29 @@ We also collect a paper list organized by different categories. Refer to [Here](
 
 - Towards Multimodal Simultaneous Neural Machine Translation. *WMT 2020*. [[PDF](https://aclanthology.org/2020.wmt-1.70)] [[Code](https://github.com/toshohirasawa/mst)]
 
-- Opportunistic Decoding with Timely Correction for Simultaneous Translation. *ACL 2020*. [[PDF](https://aclanthology.org/2020.acl-main.42)]
+- Opportunistic Decoding with Timely Correction for Simultaneous Translation. *ACL 2020*. [[PDF](https://aclanthology.org/2020.acl-main.42.pdf)]
 
-- Simultaneous Translation Policies: From Fixed to Adaptive. *ACL 2020*. [[PDF](https://aclanthology.org/2020.acl-main.254)]
+- Simultaneous Translation Policies: From Fixed to Adaptive. *ACL 2020*. [[PDF](https://aclanthology.org/2020.acl-main.254.pdf)]
 
-- SimulSpeech: End-to-End Simultaneous Speech to Text Translation. *ACL 2020*. [[PDF](https://aclanthology.org/2020.acl-main.350)]
+- SimulSpeech: End-to-End Simultaneous Speech to Text Translation. *ACL 2020*. [[PDF](https://aclanthology.org/2020.acl-main.350.pdf)]
 
 - Monotonic Multihead Attention. *ICLR 2020*.  [[PDF](https://openreview.net/pdf?id=Hyg96gBKPS)] [[Code](https://github.com/pytorch/fairseq/tree/6f847c8654d56b4d1b1fbacec027f47419426ddb/examples/simultaneous_translation)]
 
-- Learning Adaptive Segmentation Policy for Simultaneous Translation. *EMNLP 2020*. [[PDF](https://aclanthology.org/2020.emnlp-main.178)]
+- Learning Adaptive Segmentation Policy for Simultaneous Translation. *EMNLP 2020*. [[PDF](https://aclanthology.org/2020.emnlp-main.178.pdf)]
 
-- Simultaneous Machine Translation with Visual Context. *EMNLP 2020*. [[PDF](https://aclanthology.org/2020.emnlp-main.184)] [[Code](https://github.com/ImperialNLP/pysimt)]
+- Simultaneous Machine Translation with Visual Context. *EMNLP 2020*. [[PDF](https://aclanthology.org/2020.emnlp-main.184.pdf)] [[Code](https://github.com/ImperialNLP/pysimt)]
 
 - Direct Segmentation Models for Streaming Speech Translation. *EMNLP 2020*. [[PDF](https://aclanthology.org/2020.emnlp-main.206.pdf)] [[Code](https://github.com/jairsan/Speech_Translation_Segmenter)]
 
-- SIMULEVAL: An Evaluation Toolkit for Simultaneous Translation. *EMNLP 2020*. [[PDF](https://aclanthology.org/2020.emnlp-demos.19)] [[Code](https://github.com/facebookresearch/SimulEval)]
+- SIMULEVAL: An Evaluation Toolkit for Simultaneous Translation. *EMNLP 2020*. [[PDF](https://aclanthology.org/2020.emnlp-demos.19.pdf)] [[Code](https://github.com/facebookresearch/SimulEval)]
 
-- Incremental Text-to-Speech Synthesis with Prefix-to-Prefix Framework. *EMNLP 2020 findings*. [[PDF](https://aclanthology.org/2020.findings-emnlp.346)]
+- Incremental Text-to-Speech Synthesis with Prefix-to-Prefix Framework. *EMNLP 2020 findings*. [[PDF](https://aclanthology.org/2020.findings-emnlp.346.pdf)]
 
-- Fluent and Low-latency Simultaneous Speech-to-Speech Translation with Self-adaptive Training. *EMNLP 2020 findings*. [[PDF](https://aclanthology.org/2020.findings-emnlp.349)]
+- Fluent and Low-latency Simultaneous Speech-to-Speech Translation with Self-adaptive Training. *EMNLP 2020 findings*. [[PDF](https://aclanthology.org/2020.findings-emnlp.349.pdf)]
 
-- A General Framework for Adaptation of Neural Machine Translation to Simultaneous Translation. *AACL 2020*. [[PDF](https://aclanthology.org/2020.aacl-main.23)]
+- A General Framework for Adaptation of Neural Machine Translation to Simultaneous Translation. *AACL 2020*. [[PDF](https://aclanthology.org/2020.aacl-main.23.pdf)]
 
-- SimulMT to SimulST: Adapting Simultaneous Text Translation to End-to-End Simultaneous Speech Translation. *AACL 2020*. [[PDF](https://aclanthology.org/2020.aacl-main.58)] [[Code](https://github.com/pytorch/fairseq)]
+- SimulMT to SimulST: Adapting Simultaneous Text Translation to End-to-End Simultaneous Speech Translation. *AACL 2020*. [[PDF](https://aclanthology.org/2020.aacl-main.58.pdf)] [[Code](https://github.com/pytorch/fairseq)]
 
 - Re-Translation Strategies For Long Form, Simultaneous, Spoken Language Translation. *ICASSP 2020*  [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9054585)]
 
@@ -204,37 +204,37 @@ We also collect a paper list organized by different categories. Refer to [Here](
 
 ###  2021
 
-- Monotonic Simultaneous Translation with Chunk-wise Reordering and Refinement. *WMT2021*. [[PDF](https://aclanthology.org/2021.wmt-1.119)]
+- Monotonic Simultaneous Translation with Chunk-wise Reordering and Refinement. *WMT2021*. [[PDF](https://aclanthology.org/2021.wmt-1.119.pdf)]
 
-- Simultaneous Neural Machine Translation with Constituent Label Prediction. *WMT 2021*. [[PDF](https://aclanthology.org/2021.wmt-1.120)]
+- Simultaneous Neural Machine Translation with Constituent Label Prediction. *WMT 2021*. [[PDF](https://aclanthology.org/2021.wmt-1.120.pdf)]
 
 - Future-Guided Incremental Transformer for Simultaneous Translation. *AAAI 2021*. [[PDF](https://arxiv.org/pdf/2012.12465.pdf)]
 
 - Studying The Impact Of Document-level Context On Simultaneous Neural Machine Translation. *Machine Translation 2021*. [[PDF](https://aclanthology.org/2021.mtsummit-research.17)]
 
-- Beyond Sentence-Level End-to-End Speech Translation: Context Helps. *ACL 2021*. [[PDF](https://aclanthology.org/2021.acl-long.200)] [[Code](https://github.com/bzhangGo/zero)]
+- Beyond Sentence-Level End-to-End Speech Translation: Context Helps. *ACL 2021*. [[PDF](https://aclanthology.org/2021.acl-long.200.pdf)] [[Code](https://github.com/bzhangGo/zero)]
 
-- RealTranS: End-to-End Simultaneous Speech Translation with Convolutional Weighted-Shrinking Transformer. *ACL 2021 findings*. [[PDF](https://aclanthology.org/2021.findings-acl.218)]
+- RealTranS: End-to-End Simultaneous Speech Translation with Convolutional Weighted-Shrinking Transformer. *ACL 2021 findings*. [[PDF](https://aclanthology.org/2021.findings-acl.218.pdf)]
 
-- Direct Simultaneous Speech-to-Text Translation Assisted by Synchronized Streaming ASR. *ACL 2021 findings*. [[PDF](https://aclanthology.org/2021.findings-acl.406)]
+- Direct Simultaneous Speech-to-Text Translation Assisted by Synchronized Streaming ASR. *ACL 2021 findings*. [[PDF](https://aclanthology.org/2021.findings-acl.406.pdf)]
 
-- Multilingual Simultaneous Neural Machine Translation. *ACL 2021 findings*. [[PDF](https://aclanthology.org/2021.findings-acl.420)]
+- Multilingual Simultaneous Neural Machine Translation. *ACL 2021 findings*. [[PDF](https://aclanthology.org/2021.findings-acl.420.pdf)]
 
-- Universal Simultaneous Machine Translation with Mixture-of-Experts Wait-k Policy. *EMNLP 2021*. [[PDF](https://aclanthology.org/2021.emnlp-main.581)] [[Code](https://github.com/ictnlp/MoE-Waitk)]
+- Universal Simultaneous Machine Translation with Mixture-of-Experts Wait-k Policy. *EMNLP 2021*. [[PDF](https://aclanthology.org/2021.emnlp-main.581.pdf)] [[Code](https://github.com/ictnlp/MoE-Waitk)]
 
-- Cross Attention Augmented Transducer Networks for Simultaneous Translation. *EMNLP 2021*. [[PDF](https://aclanthology.org/2021.emnlp-main.4)] [[Code](https://github.com/danliu2/caat)]
+- Cross Attention Augmented Transducer Networks for Simultaneous Translation. *EMNLP 2021*. [[PDF](https://aclanthology.org/2021.emnlp-main.4.pdf)] [[Code](https://github.com/danliu2/caat)]
 
-- Translation-based Supervision for Policy Generation in Simultaneous Neural Machine Translation. *EMNLP 2021*. [[PDF](https://aclanthology.org/2021.emnlp-main.130)] [[Code](https://github.com/sfu-natlang/supervised-simultaneous-mt)]
+- Translation-based Supervision for Policy Generation in Simultaneous Neural Machine Translation. *EMNLP 2021*. [[PDF](https://aclanthology.org/2021.emnlp-main.130.pdf)] [[Code](https://github.com/sfu-natlang/supervised-simultaneous-mt)]
 
-- Improving Simultaneous Translation by Incorporating Pseudo-References with Fewer Reorderings. *EMNLP 2021*. [[PDF](https://aclanthology.org/2021.emnlp-main.473)]
+- Improving Simultaneous Translation by Incorporating Pseudo-References with Fewer Reorderings. *EMNLP 2021*. [[PDF](https://aclanthology.org/2021.emnlp-main.473.pdf)]
 
-- A Generative Framework for Simultaneous Machine Translation. *EMNLP 2021*. [[PDF](https://aclanthology.org/2021.emnlp-main.536)]
+- A Generative Framework for Simultaneous Machine Translation. *EMNLP 2021*. [[PDF](https://aclanthology.org/2021.emnlp-main.536.pdf)]
 
-- It Is Not As Good As You Think! Evaluating Simultaneous Machine Translation on Interpretation Data. *EMNLP 2021*. [[PDF](https://aclanthology.org/2021.emnlp-main.537)] [[Code](https://github.com/mingzi151/InterpretationData)]
+- It Is Not As Good As You Think! Evaluating Simultaneous Machine Translation on Interpretation Data. *EMNLP 2021*. [[PDF](https://aclanthology.org/2021.emnlp-main.537.pdf)] [[Code](https://github.com/mingzi151/InterpretationData)]
 
-- Stream-level Latency Evaluation for Simultaneous Machine Translation. *EMNLP 2021 findings*. [[PDF](https://aclanthology.org/2021.findings-emnlp.58)] [[Code](https://github.com/jairsan/Stream-level_Latency_Evaluation_for_Simultaneous_Machine_Translation)]
+- Stream-level Latency Evaluation for Simultaneous Machine Translation. *EMNLP 2021 findings*. [[PDF](https://aclanthology.org/2021.findings-emnlp.58.pdf)] [[Code](https://github.com/jairsan/Stream-level_Latency_Evaluation_for_Simultaneous_Machine_Translation)]
 
-- MiSS: An Assistant for Multi-Style Simultaneous Translation. *EMNLP 2021 Demo*. [[PDF](https://aclanthology.org/2021.emnlp-demo.1)]
+- MiSS: An Assistant for Multi-Style Simultaneous Translation. *EMNLP 2021 Demo*. [[PDF](https://aclanthology.org/2021.emnlp-demo.1.pdf)]
 
 - Learning Coupled Policies for Simultaneous Machine Translation using Imitation Learning. *EACL 2021*. [[PDF](https://aclanthology.org/2021.eacl-main.233)] [[Code](https://github.com/Monash-NLP-ML-Group/arthur-eacl2021)]
 
