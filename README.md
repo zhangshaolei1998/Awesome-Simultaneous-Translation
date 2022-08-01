@@ -2,15 +2,13 @@
 
 This repository collects the tookits, common datasets and paper list related to the research on **Simultaneous Translation**. It is a great honor if this repository brings some help or reference to your research.:blush:
 
-![update-badge](https://img.shields.io/github/last-commit/Vily1998/Awesome-Simultaneous-Translation?label=last%20update) This repository is continuously updating...
-
-<img src="./wordcloud.png" alt="wordcloud" style="zoom: 33%;" />
+This repository is continuously updating... ![update-badge](https://img.shields.io/github/last-commit/Vily1998/Awesome-Simultaneous-Translation?label=last%20update) 
 
 _Thanks to everyone having starred this repo!_
 
-[![Stargazers repo roster for @Vily1998/Awesome-Simultaneous-Translation](https://git-lister.onrender.com/api/stars/Vily1998/Awesome-Simultaneous-Translation?limit=15)](https://github.com/Vily1998/Awesome-Simultaneous-Translation/stargazers)
+[![Stargazers repo roster for @Vily1998/Awesome-Simultaneous-Translation](https://git-lister.onrender.com/api/stars/Vily1998/Awesome-Simultaneous-Translation?limit=60)](https://github.com/Vily1998/Awesome-Simultaneous-Translation/stargazers)
 
-
+<img src="./wordcloud.png" alt="wordcloud" style="zoom: 33%;" />
 
 
 ## Tookits
