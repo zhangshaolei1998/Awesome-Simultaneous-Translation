@@ -2,9 +2,14 @@
 
 This repository collects the tookits, common datasets and paper list related to the research on **Simultaneous Translation**. It is a great honor if this repository brings some help or reference to your research.:blush:
 
-This repository is continuously updating...
+![update-badge](https://img.shields.io/github/last-commit/Vily1998/Awesome-Simultaneous-Translation?label=last%20update) This repository is continuously updating...
 
 <img src="./wordcloud.png" alt="wordcloud" style="zoom: 33%;" />
+
+_Thanks to everyone having starred this repo!_
+
+[![Stargazers repo roster for @Vily1998/Awesome-Simultaneous-Translation](https://git-lister.onrender.com/api/stars/Vily1998/Awesome-Simultaneous-Translation?limit=15)](https://github.com/Vily1998/Awesome-Simultaneous-Translation/stargazers)
+
 
 
 
@@ -367,6 +372,3 @@ If you have any suggestions or some related papers are not included, feel free t
 > Key Lab. of Intelligent Information Processing
 >
 > Institute of Computing Technology, Chinese Academy of Sciences
-
-
-[![Stargazers repo roster for @Vily1998/Awesome-Simultaneous-Translation](https://git-lister.onrender.com/api/stars/Vily1998/Awesome-Simultaneous-Translation)](https://github.com/Vily1998/Awesome-Simultaneous-Translation/stargazers)
