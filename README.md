@@ -355,9 +355,7 @@ Evaluation. [[PDF](https://aclanthology.org/2022.iwslt-1.21.pdf)]
 
 ## Contact
 
-If this repository is helpful to you, welcome to :star: it ! _Thanks to everyone having starred this repository!_ 
-
-[![Stargazers repo roster for @Vily1998/Awesome-Simultaneous-Translation](https://git-lister.onrender.com/api/stars/Vily1998/Awesome-Simultaneous-Translation?limit=60)](https://github.com/Vily1998/Awesome-Simultaneous-Translation/stargazers)
+If this repository is helpful to you, welcome to :star: it !
 
 If you have any suggestions or some related papers are not included, feel free to contact me with: `zhangshaolei20z@ict.ac.cn`.
 
