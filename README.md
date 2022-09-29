@@ -2,7 +2,7 @@
 
 This repository collects the tookits, common datasets and paper list related to the research on **Simultaneous Translation**. This repository is continuously updating... ![update-badge](https://img.shields.io/github/last-commit/Vily1998/Awesome-Simultaneous-Translation?label=last%20update) 
 
-It is a great honor if this repository brings some help or reference to your research.:blush: 
+It is a great honor if this repository brings some help or reference to your research:blush: If you have any suggestions, feel free to contact me with: `zhangshaolei20z@ict.ac.cn`.
 
 <img src="./wordcloud.png" alt="wordcloud" style="zoom: 33%;" />
 
