@@ -351,6 +351,21 @@ Evaluation. [[PDF](https://aclanthology.org/2022.iwslt-1.21.pdf)]
 
 - NAIST Simultaneous Speech-to-Text Translation System for IWSLT 2022. [[PDF](https://aclanthology.org/2022.iwslt-1.25.pdf)]
 
+### AutoSimTrans 2022
+
+- Over-Generation Cannot Be Rewarded: Length-Adaptive Average Lagging for Simultaneous Speech Translation. [[PDF](https://aclanthology.org/2022.autosimtrans-1.2.pdf)]
+
+- System Description on Automatic Simultaneous Translation Workshop. [[PDF](https://aclanthology.org/2022.autosimtrans-1.3.pdf)]
+
+- System Description on Third Automatic Simultaneous Translation Workshop. [[PDF](https://aclanthology.org/2022.autosimtrans-1.4.pdf)]
+
+- End-to-End Simultaneous Speech Translation with Pretraining and Distillation: Huawei Noah’s System for AutoSimTranS 2022. [[PDF](https://aclanthology.org/2022.autosimtrans-1.5.pdf)]
+
+- BIT-Xiaomi’s System for AutoSimTrans 2022. [[PDF](https://aclanthology.org/2022.autosimtrans-1.6.pdf)]
+
+- USST’s System for AutoSimTrans 2022. [[PDF](https://aclanthology.org/2022.autosimtrans-1.7.pdf)]
+
+
 
 
 ## Contact
