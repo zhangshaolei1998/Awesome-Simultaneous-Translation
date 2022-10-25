@@ -268,6 +268,12 @@ We also collect a paper list organized by different categories. Refer to [Here](
 
 - Language Model Augmented Monotonic Attention for Simultaneous Translation. *NAACL 2022*. [[PDF](https://aclanthology.org/2022.naacl-main.3.pdf)]
 
+- Information-Transport-based Policy for Simultaneous Translation. *EMNLP 2022*. [[PDF](https://arxiv.org/pdf/2210.12357.pdf)][[code])(https://github.com/ictnlp/ITST)]
+
+- Wait-info Policy: Balancing Source and Target at Information Level for Simultaneous Machine Translation. *EMNLP 2022 findings*. [[PDF](https://arxiv.org/pdf/2210.11220.pdf)][[code])(https://github.com/ictnlp/Wait-info)]
+
+- Turning Fixed to Adaptive: Integrating Post-Evaluation into Simultaneous Machine Translation. *EMNLP 2022 findings*. [[PDF](https://arxiv.org/pdf/2210.11900.pdf)][[code])(https://github.com/ictnlp/PED-SiMT)]
+
 
 
 ## Workshops
