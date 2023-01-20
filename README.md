@@ -44,7 +44,7 @@ This is a paper list of Simultaneous Translation, organized by publication year.
 
 We also collect a paper list organized by different categories. Refer to [Here](https://github.com/Vily1998/Awesome-Simultaneous-Translation/blob/main/Papers%20by%20Categories.md).
 
-[2002](#2002) | [2006](#2006) | [2007](#2007) | [2009](#2009) | [2010](#2010) | [2012](#2012) | [2013](#2013) | [2014](#2014) | [2015](#2015) | [2016](#2016) | [2017](#2017) | [2018](#2018) | [2019](#2019) | [2020](#2020) | [2021](#2021) | [2022](#2022) | 
+[2002](#2002) | [2006](#2006) | [2007](#2007) | [2009](#2009) | [2010](#2010) | [2012](#2012) | [2013](#2013) | [2014](#2014) | [2015](#2015) | [2016](#2016) | [2017](#2017) | [2018](#2018) | [2019](#2019) | [2020](#2020) | [2021](#2021) | [2022](#2022) | [2023](#2023) |
 
 
 
@@ -274,7 +274,9 @@ We also collect a paper list organized by different categories. Refer to [Here](
 
 - Turning Fixed to Adaptive: Integrating Post-Evaluation into Simultaneous Machine Translation. *EMNLP 2022 findings*. [[PDF](https://arxiv.org/pdf/2210.11900.pdf)][[code](https://github.com/ictnlp/PED-SiMT)]
 
+### <a id="2023">2023</a>
 
+- Improving Simultaneous Machine Translation with Monolingual Data. *AAAI 2023*. [[PDF](https://arxiv.org/pdf/2212.01188.pdf)] [[Code](https://github.com/hexuandeng/Mono4SiMT)]
 
 ## Workshops
 
