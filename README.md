@@ -164,7 +164,7 @@ We also collect a paper list organized by different categories. Refer to [Here](
 
 - SimulSpeech: End-to-End Simultaneous Speech to Text Translation. *ACL 2020*. [[PDF](https://aclanthology.org/2020.acl-main.350.pdf)]
 
-- Monotonic Multihead Attention. *ICLR 2020*.  [[PDF](https://openreview.net/pdf?id=Hyg96gBKPS)] [[Code](https://github.com/pytorch/fairseq/tree/6f847c8654d56b4d1b1fbacec027f47419426ddb/examples/simultaneous_translation)]
+- Monotonic Multihead Attention. *ICLR 2020*. [[PDF](https://openreview.net/pdf?id=Hyg96gBKPS)] [[Code](https://github.com/pytorch/fairseq/tree/6f847c8654d56b4d1b1fbacec027f47419426ddb/examples/simultaneous_translation)]
 
 - Learning Adaptive Segmentation Policy for Simultaneous Translation. *EMNLP 2020*. [[PDF](https://aclanthology.org/2020.emnlp-main.178.pdf)]
 
@@ -252,6 +252,8 @@ We also collect a paper list organized by different categories. Refer to [Here](
 
 - Direct Simultaneous Speech-to-Speech Translation with Variational Monotonic Multihead Attention. *Arxiv 2021*. [[PDF](https://arxiv.org/pdf/2110.15729)]
 
+- SimulSLT: End-to-End Simultaneous Sign Language Translation. *Arxiv 2021*. [[PDF](https://arxiv.org/pdf/2112.04228.pdf)]
+
 ### <a id="2022">2022</a>
 
 - Modeling Dual Read/Write Paths for Simultaneous Machine Translation. *ACL 2022*. [[PDF](https://aclanthology.org/2022.acl-long.176.pdf)] [[Code](https://github.com/ictnlp/Dual-Path)]
@@ -274,9 +276,35 @@ We also collect a paper list organized by different categories. Refer to [Here](
 
 - Turning Fixed to Adaptive: Integrating Post-Evaluation into Simultaneous Machine Translation. *EMNLP 2022 findings*. [[PDF](https://arxiv.org/pdf/2210.11900.pdf)][[code](https://github.com/ictnlp/PED-SiMT)]
 
+- Does Simultaneous Speech Translation need Simultaneous Models? *EMNLP 2022 findings*. [[PDF](https://aclanthology.org/2022.findings-emnlp.11.pdf)][[code](https://github.com/hlt-mt/FBK-fairseq)]
+
+- Exploring Continuous Integrate-and-Fire for Adaptive Simultaneous Speech Translation. *InterSpeech 2022*. [[PDF](https://arxiv.org/pdf/2204.09595.pdf)][[code](https://github.com/George0828Zhang/simulst)]
+
+- Blockwise Streaming Transformer for Spoken Language Understanding and Simultaneous Speech Translation. *InterSpeech 2022*. [[PDF](https://arxiv.org/pdf/2204.08920.pdf)]
+
+- Multilingual Simultaneous Speech Translation. *InterSpeech 2022*. [[PDF](https://arxiv.org/pdf/2203.14835.pdf)][[code](https://github.com/George0828Zhang/simulst)]
+
+- From Start to Finish: Latency Reduction Strategies for Incremental Speech Synthesis in Simultaneous Speech-to-Speech Translation. *InterSpeech 2022*. [[PDF](https://arxiv.org/pdf/2110.08214.pdf)][[code](https://github.com/pytorch/fairseq/pull/4184)]
+
+- Supervised Visual Attention for Simultaneous Multimodal Machine Translation. *JAIR 2022*. [[PDF](https://arxiv.org/pdf/2201.09324.pdf)]
+
+- Comprehension of Subtitles from Re-Translating Simultaneous Speech Translation. *Arxiv 2022*. [[PDF](https://arxiv.org/pdf/2204.12672.pdf)]
+
+- Data-Driven Adaptive Simultaneous Machine Translation. *Arxiv 2022*. [[PDF](https://arxiv.org/pdf/2204.12672.pdf)]
+
+- Simultaneous Translation for Unsegmented Input: A Sliding Window Approach. *Arxiv 2022*. [[PDF](https://arxiv.org/pdf/2210.09754.pdf)]
+
+- MT Metrics Correlate with Human Ratings of Simultaneous Speech Translation (Technical Report). *Arxiv 2022*. [[PDF](https://arxiv.org/pdf/2211.08633.pdf)]
+
+- Attention as a guide for Simultaneous Speech Translation. *Arxiv 2022*. [[PDF](https://arxiv.org/pdf/2212.07850.pdf)]
+
 ### <a id="2023">2023</a>
 
-- Improving Simultaneous Machine Translation with Monolingual Data. *AAAI 2023*. [[PDF](https://arxiv.org/pdf/2212.01188.pdf)] [[Code](https://github.com/hexuandeng/Mono4SiMT)]
+- Improving Simultaneous Machine Translation with Monolingual Data. *AAAI 2023*. [[PDF](https://arxiv.org/pdf/2212.01188.pdf)][[Code](https://github.com/hexuandeng/Mono4SiMT)]
+
+- Hidden Markov Transformer for Simultaneous Machine Translation. *ICLR 2023*. [[PDF](https://arxiv.org/pdf/2303.00257.pdf)][[Code](https://github.com/ictnlp/HMT)]
+
+- Average Token Delay: A Latency Metric for Simultaneous Translation. *Arxiv 2023* [[PDF](https://arxiv.org/pdf/2211.13173.pdf)]
 
 ## Workshops
 
