@@ -306,6 +306,8 @@ We also collect a paper list organized by different categories. Refer to [Here](
 
 - Average Token Delay: A Latency Metric for Simultaneous Translation. *Arxiv 2023* [[PDF](https://arxiv.org/pdf/2211.13173.pdf)]
 
+- Rethinking the Reasonability of the Test Set for Simultaneous Machine Translation. *ICASSP 2023* [[PDF](https://arxiv.org/pdf/2303.00969.pdf)]
+
 ## Workshops
 
 ### IWSLT 2020
