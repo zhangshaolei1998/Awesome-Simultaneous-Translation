@@ -308,6 +308,8 @@ We also collect a paper list organized by different categories. Refer to [Here](
 
 - Rethinking the Reasonability of the Test Set for Simultaneous Machine Translation. *ICASSP 2023* [[PDF](https://arxiv.org/pdf/2303.00969.pdf)]
 
+- Adapting Offline Speech Translation Models for Streaming with Future-Aware Distillation and Inference. *Arxiv 2023* [[PDF](https://arxiv.org/pdf/2303.07914v1.pdf)]
+
 ## Workshops
 
 ### IWSLT 2020
