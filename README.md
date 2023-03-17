@@ -304,9 +304,12 @@ We also collect a paper list organized by different categories. Refer to [Here](
 
 - Hidden Markov Transformer for Simultaneous Machine Translation. *ICLR 2023*. [[PDF](https://arxiv.org/pdf/2303.00257.pdf)][[Code](https://github.com/ictnlp/HMT)]
 
+- Rethinking the Reasonability of the Test Set for Simultaneous Machine Translation. *ICASSP 2023* [[PDF](https://arxiv.org/pdf/2303.00969.pdf)]
+
 - Average Token Delay: A Latency Metric for Simultaneous Translation. *Arxiv 2023* [[PDF](https://arxiv.org/pdf/2211.13173.pdf)]
 
-- Rethinking the Reasonability of the Test Set for Simultaneous Machine Translation. *ICASSP 2023* [[PDF](https://arxiv.org/pdf/2303.00969.pdf)]
+- Adapting Offline Speech Translation Models for Streaming with Future-Aware Distillation and Inference. *Arxiv 2023* [[PDF](https://arxiv.org/pdf/2303.07914v1.pdf)]
+
 
 ## Workshops
 
