@@ -27,7 +27,6 @@ It is a great honor if this repository brings some help or reference to your res
   - **NAIST-SIC English-Japanese**: 22 hours.[[Link](https://dsc-nlp.naist.jp/data/NAIST-SIC/)]
 
 
-
 ## Tutorials & Talks
 
 PACLIC 2016: **The Challenge of Simultaneous Speech Translation**. Anoop Sarkar. [[Link](https://aclanthology.org/Y16-1003)]
@@ -35,7 +34,6 @@ PACLIC 2016: **The Challenge of Simultaneous Speech Translation**. Anoop Sarkar.
 EMNLP 2020: **Simultaneous Translation**. Liang Huang, Colin Cherry, Mingbo Ma, Naveen Arivazhagan, and Zhongjun He.  [[Link](https://aclanthology.org/2020.emnlp-tutorials.6)]
 
 AMTA 2020: **Simultaneous Speech Translation in Google Translate**. Jeff Pitman. [[Link](https://aclanthology.org/attachments/2020.amta-user.17.Presentation.pdf)]
-
 
 
 ## Paper List
@@ -308,6 +306,26 @@ We also collect a paper list organized by different categories. Refer to [Here](
 
 - LEAPT: Learning Adaptive Prefix-to-prefix Translation For Simultaneous Machine Translation. *ICASSP 2023*. [[PDF](https://arxiv.org/pdf/2303.11750v1.pdf)]
 
+- Learning Optimal Policy for Simultaneous Machine Translation via Binary Search. *ACL 2023* [[PDF](https://aclanthology.org/2023.acl-long.130.pdf)][[Code](https://github.com/ictnlp/BS-SiMT)]
+
+- Better Simultaneous Translation with Monotonic Knowledge Distillation. *ACL 2023* [[PDF](https://aclanthology.org/2023.acl-long.131.pdf)][[Code](https://github.com/wangshushu0213/Monotonic-Translation-Generation)]
+
+- Attention as a Guide for Simultaneous Speech Translation. *ACL 2023* [[PDF](https://aclanthology.org/2023.acl-long.745.pdf)][[Code](https://github.com/hlt-mt/FBK-fairseq/blob/master/fbk_works/EDATT_SIMULST_AGENT_ACL2023.md)]
+
+- End-to-End Simultaneous Speech Translation with Differentiable Segmentation. *ACL 2023 findings* [[PDF](https://aclanthology.org/2023.findings-acl.485.pdf)][[Code](https://github.com/ictnlp/DiSeg)]
+
+- Implicit Memory Transformer for Computationally Efficient Simultaneous Speech Translation. *ACL 2023 findings* [[PDF](https://aclanthology.org/2023.findings-acl.816.pdf)][[Code](https://github.com/OSU-STARLAB/ImplicitMemory)]
+
+- Japanese-to-English Simultaneous Dubbing Prototype. *ACL 2023 demo* [[PDF](https://aclanthology.org/2023.acl-demo.16.pdf)]
+
+- AlignAtt: Using Attention-based Audio-Translation Alignments as a Guide for Simultaneous Speech Translation. *InterSpeech 2023*. [[PDF](https://arxiv.org/pdf/2305.11408)]
+
+- Learning When to Speak: Latency and Quality Trade-offs for Simultaneous Speech-to-Speech Translation with Offline Models. *InterSpeech 2023*. [[PDF](https://arxiv.org/pdf/2306.01201.pdf)][[Code](https://github.com/liamdugan/speech-to-speech)]
+
+- LAMASSU: A Streaming Language-Agnostic Multilingual Speech Recognition and Translation Model Using Neural Transducers. *InterSpeech 2023*. [[PDF](https://arxiv.org/pdf/2211.02809.pdf)]
+
+- Shiftable Context: Addressing Training-Inference Context Mismatch in Simultaneous Speech Translation. *ICML 2023*. [[PDF](https://arxiv.org/pdf/2307.01377.pdf)][[Code](https://github.com/OSU-STARLAB/ShiftableContext)]
+
 - Average Token Delay: A Latency Metric for Simultaneous Translation. *Arxiv 2023*. [[PDF](https://arxiv.org/pdf/2211.13173.pdf)]
 
 - Adapting Offline Speech Translation Models for Streaming with Future-Aware Distillation and Inference. *Arxiv 2023*. [[PDF](https://arxiv.org/pdf/2303.07914v1.pdf)]
@@ -408,7 +426,27 @@ Evaluation. [[PDF](https://aclanthology.org/2022.iwslt-1.21.pdf)]
 
 - USST’s System for AutoSimTrans 2022. [[PDF](https://aclanthology.org/2022.autosimtrans-1.7.pdf)]
 
+### IWSLT 2023
 
+- Direct Models for Simultaneous Translation and Automatic Subtitling: FBK@IWSLT2023. [[PDF](https://aclanthology.org/2023.iwslt-1.11.pdf)]
+
+- MT Metrics Correlate with Human Ratings of Simultaneous Speech Translation. [[PDF](https://aclanthology.org/2023.iwslt-1.12.pdf)]
+
+- CMU’s IWSLT 2023 Simultaneous Speech Translation System. [[PDF](https://aclanthology.org/2023.iwslt-1.20.pdf)]
+
+- NAIST Simultaneous Speech-to-speech Translation System for IWSLT 2023. [[PDF](https://aclanthology.org/2023.iwslt-1.31.pdf)]
+
+- Language Model Based Target Token Importance Rescaling for Simultaneous Neural Machine Translation. [[PDF](https://aclanthology.org/2023.iwslt-1.32.pdf)]
+
+- Tagged End-to-End Simultaneous Speech Translation Training Using Simultaneous Interpretation Data. [[PDF](https://aclanthology.org/2023.iwslt-1.34.pdf)]
+
+- The HW-TSC’s Simultaneous Speech-to-Text Translation System for IWSLT 2023 Evaluation. [[PDF](https://aclanthology.org/2023.iwslt-1.35.pdf)]
+
+- The HW-TSC’s Simultaneous Speech-to-Speech Translation System for IWSLT 2023 Evaluation. [[PDF](https://aclanthology.org/2023.iwslt-1.36.pdf)]
+
+- Towards Efficient Simultaneous Speech Translation: CUNI-KIT System for Simultaneous Track at IWSLT 2023. [[PDF](https://aclanthology.org/2023.iwslt-1.37.pdf)]
+
+- The Xiaomi AI Lab’s Speech Translation Systems for IWSLT 2023 Offline Task, Simultaneous Task and Speech-to-Speech Task. [[PDF](https://aclanthology.org/2023.iwslt-1.39.pdf)]
 
 
 ## Contact
@@ -417,7 +455,7 @@ If this repository is helpful to you, welcome to :star: it !
 
 If you have any suggestions or some related papers are not included, feel free to contact me with: `zhangshaolei20z@ict.ac.cn`.
 
-> Shaolei Zhang
+> [Shaolei Zhang](https://zhangshaolei1998.github.io/)
 >
 > Ph.D. Student Candidate (2020 ~ 2025)
 >
