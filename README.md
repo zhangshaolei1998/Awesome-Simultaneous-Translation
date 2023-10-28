@@ -330,6 +330,14 @@ We also collect a paper list organized by different categories. Refer to [Here](
 
 - Adapting Offline Speech Translation Models for Streaming with Future-Aware Distillation and Inference. *Arxiv 2023*. [[PDF](https://arxiv.org/pdf/2303.07914v1.pdf)]
 
+- Enhanced Simultaneous Machine Translation with Word-level Policies. *EMNLP 2023 Findings*. [[PDF](https://arxiv.org/pdf/2310.16417.pdf)]
+
+- Non-autoregressive Streaming Transformer for Simultaneous Translation. *EMNLP 2023*. [[PDF](https://arxiv.org/pdf/2310.14883.pdf)]
+
+- Simultaneous Machine Translation with Tailored Reference. *EMNLP 2023*. [[PDF](https://arxiv.org/pdf/2310.13588.pdf)]
+
+- Adaptive Policy with Wait-k Model for Simultaneous Translation. *EMNLP 2023*. [[PDF](https://arxiv.org/pdf/2310.14853.pdf)]
+
 
 ## Workshops
 
