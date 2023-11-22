@@ -324,11 +324,35 @@ We also collect a paper list organized by different categories. Refer to [Here](
 
 - LAMASSU: A Streaming Language-Agnostic Multilingual Speech Recognition and Translation Model Using Neural Transducers. *InterSpeech 2023*. [[PDF](https://arxiv.org/pdf/2211.02809.pdf)]
 
+- Incremental Blockwise Beam Search for Simultaneous Speech Translation with Controllable Quality-Latency Tradeoff. *InterSpeech 2023*. [[PDF](https://arxiv.org/pdf/2309.11379.pdf)]
+
 - Shiftable Context: Addressing Training-Inference Context Mismatch in Simultaneous Speech Translation. *ICML 2023*. [[PDF](https://arxiv.org/pdf/2307.01377.pdf)][[Code](https://github.com/OSU-STARLAB/ShiftableContext)]
+
+- Non-autoregressive Streaming Transformer for Simultaneous Translation. *EMNLP 2023*. [[PDF](https://arxiv.org/pdf/2310.14883.pdf)][[Code](https://github.com/ictnlp/NAST)]
+
+- Adaptive Policy with Wait-k Model for Simultaneous Translation. *EMNLP 2023*. [[PDF](https://arxiv.org/pdf/2310.14853.pdf)][[Code](https://github.com/lbzhao970/DaP-SiMT)]
+
+- Simultaneous Machine Translation with Tailored Reference. *EMNLP 2023 findings*. [[PDF](https://arxiv.org/pdf/2307.01377.pdf)][[Code](https://github.com/ictnlp/Tailored-Ref)]
+
+- Enhanced Simultaneous Machine Translation with Word-level Policies. *EMNLP 2023 findings*. [[PDF](https://arxiv.org/pdf/2310.16417.pdf)][[Code](https://github.com/xl8-ai/WordSiMT)]
+
+- Long-form Simultaneous Speech Translation: Thesis Proposal. *AACL 2023*. [[PDF](https://arxiv.org/pdf/2310.11141.pdf)]
+
+- Improving Stability in Simultaneous Speech Translation: A Revision-Controllable Decoding Approach. *ASRU 2023*. [[PDF](https://arxiv.org/pdf/2310.04399.pdf)]
 
 - Average Token Delay: A Latency Metric for Simultaneous Translation. *Arxiv 2023*. [[PDF](https://arxiv.org/pdf/2211.13173.pdf)]
 
 - Adapting Offline Speech Translation Models for Streaming with Future-Aware Distillation and Inference. *Arxiv 2023*. [[PDF](https://arxiv.org/pdf/2303.07914v1.pdf)]
+
+- End-to-End Evaluation for Low-Latency Simultaneous Speech Translation. *Arxiv 2023*. [[PDF](https://arxiv.org/pdf/2308.03415.pdf)][[Code](https://lecture-translator.kit.edu/)]
+
+- Simultaneous Machine Translation with Large Language Models. *Arxiv 2023*. [[PDF](https://arxiv.org/pdf/2309.06706.pdf)]
+
+- CBSiMT: Mitigating Hallucination in Simultaneous Machine Translation with Weighted Prefix-to-Prefix Training. *Arxiv 2023*. [[PDF](https://arxiv.org/pdf/2311.03672.pdf)]
+
+- Context Consistency between Training and Testing in Simultaneous Machine Translation. *Arxiv 2023*. [[PDF](https://arxiv.org/pdf/2311.07066.pdf)][[Code](https://github.com/zhongmz/ContextConsistencyBiTraining4SiMT)]
+
+- Glancing Future for Simultaneous Machine Translation. *Arxiv 2023*. [[PDF](https://arxiv.org/pdf/2309.06179.pdf)][[Code](https://github.com/ictnlp/Glance-SiMT)]
 
 
 ## Workshops
