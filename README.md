@@ -338,6 +338,13 @@ We also collect a paper list organized by different categories. Refer to [Here](
 
 - Adaptive Policy with Wait-k Model for Simultaneous Translation. *EMNLP 2023*. [[PDF](https://arxiv.org/pdf/2310.14853.pdf)]
 
+- Language Model is a Branch Predictor for Simultaneous Machine Translation. *ICASSP 2023*. [[PDF](https://arxiv.org/pdf/2312.14488.pdf)]
+
+- Simul-LLM: A Framework for Exploring High-Quality Simultaneous Translation with Large Language Models. *Arxiv 2023*. [[PDF](https://arxiv.org/pdf/2312.04691.pdf)]
+
+- Simultaneous Machine Translation with Large Language Models. *Arxiv 2023*. [[PDF](https://arxiv.org/pdf/2309.06706.pdf)]
+
+- TRANSLLAMA: LLM-BASED SIMULTANEOUS TRANSLATION SYSTEM. *ICLR 2023 OpenReview*. [[PDF](https://openreview.net/pdf?id=h1SSQ6Dekc)]
 
 ## Workshops
 
