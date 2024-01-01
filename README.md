@@ -330,6 +330,16 @@ We also collect a paper list organized by different categories. Refer to [Here](
 
 - Adapting Offline Speech Translation Models for Streaming with Future-Aware Distillation and Inference. *Arxiv 2023*. [[PDF](https://arxiv.org/pdf/2303.07914v1.pdf)]
 
+- End-to-End Evaluation for Low-Latency Simultaneous Speech Translation. *Arxiv 2023*. [[PDF](https://arxiv.org/pdf/2308.03415.pdf)][[Code](https://lecture-translator.kit.edu/)]
+
+- Simultaneous Machine Translation with Large Language Models. *Arxiv 2023*. [[PDF](https://arxiv.org/pdf/2309.06706.pdf)]
+
+- CBSiMT: Mitigating Hallucination in Simultaneous Machine Translation with Weighted Prefix-to-Prefix Training. *Arxiv 2023*. [[PDF](https://arxiv.org/pdf/2311.03672.pdf)]
+
+- Context Consistency between Training and Testing in Simultaneous Machine Translation. *Arxiv 2023*. [[PDF](https://arxiv.org/pdf/2311.07066.pdf)][[Code](https://github.com/zhongmz/ContextConsistencyBiTraining4SiMT)]
+
+- Glancing Future for Simultaneous Machine Translation. *Arxiv 2023*. [[PDF](https://arxiv.org/pdf/2309.06179.pdf)][[Code](https://github.com/ictnlp/Glance-SiMT)]
+
 - Enhanced Simultaneous Machine Translation with Word-level Policies. *EMNLP 2023 Findings*. [[PDF](https://arxiv.org/pdf/2310.16417.pdf)]
 
 - Non-autoregressive Streaming Transformer for Simultaneous Translation. *EMNLP 2023*. [[PDF](https://arxiv.org/pdf/2310.14883.pdf)]
