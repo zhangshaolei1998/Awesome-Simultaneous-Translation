@@ -306,6 +306,8 @@ We also collect a paper list organized by different categories. Refer to [Here](
 
 - LEAPT: Learning Adaptive Prefix-to-prefix Translation For Simultaneous Machine Translation. *ICASSP 2023*. [[PDF](https://arxiv.org/pdf/2303.11750v1.pdf)]
 
+- Hybrid Transducer and Attention based Encoder-Decoder Modeling for Speech-to-Text Tasks. *ACL 2023*. [[PDF]([https://aclanthology.org/2023.acl-long.130.pdf](https://aclanthology.org/2023.acl-long.695.pdf))][[Code](https://github.com/facebookresearch/fairseq/tree/main/examples/transformer_transducer)]
+
 - Learning Optimal Policy for Simultaneous Machine Translation via Binary Search. *ACL 2023* [[PDF](https://aclanthology.org/2023.acl-long.130.pdf)][[Code](https://github.com/ictnlp/BS-SiMT)]
 
 - Better Simultaneous Translation with Monotonic Knowledge Distillation. *ACL 2023* [[PDF](https://aclanthology.org/2023.acl-long.131.pdf)][[Code](https://github.com/wangshushu0213/Monotonic-Translation-Generation)]
@@ -352,7 +354,21 @@ We also collect a paper list organized by different categories. Refer to [Here](
 
 - Context Consistency between Training and Testing in Simultaneous Machine Translation. *Arxiv 2023*. [[PDF](https://arxiv.org/pdf/2311.07066.pdf)][[Code](https://github.com/zhongmz/ContextConsistencyBiTraining4SiMT)]
 
-- Glancing Future for Simultaneous Machine Translation. *Arxiv 2023*. [[PDF](https://arxiv.org/pdf/2309.06179.pdf)][[Code](https://github.com/ictnlp/Glance-SiMT)]
+- Seamless: Multilingual Expressive and Streaming Speech Translation. *Arxiv 2023*. [[PDF](https://arxiv.org/pdf/2312.05187.pdf)][[Code](https://github.com/facebookresearch/seamless_communication)]
+
+- Simul-LLM: A Framework for Exploring High-Quality Simultaneous Translation with Large Language Models. *Arxiv 2023*. [[PDF](https://arxiv.org/pdf/2312.04691.pdf)][[Code](https://github.com/OSU-STARLAB/Simul-LLM)]
+
+- Unified Segment-to-Segment Framework for Simultaneous Sequence Generation. *NeurIPS 2023*. [[PDF](https://arxiv.org/pdf/2310.17940.pdf)][[Code](https://github.com/ictnlp/Seg2Seg)]
+
+- Efficient Monotonic Multihead Attention.*Arxiv 2023*. [[PDF](https://arxiv.org/pdf/2312.04515.pdf)][[Code](https://github.com/facebookresearch/seamless_communication)]
+
+- Glancing Future for Simultaneous Machine Translation. *ICASSP 2024*. [[PDF](https://arxiv.org/pdf/2309.06179.pdf)][[Code](https://github.com/ictnlp/Glance-SiMT)]
+
+- LANGUAGE MODEL IS A BRANCH PREDICTOR FOR SIMULTANEOUS MACHINE TRANSLATION. *ICASSP 2024*. [[PDF](https://arxiv.org/pdf/2312.14488.pdf)][[Code](https://github.com/YinAoXiong/simt_branch_predictor)]
+
+### <a id="2024">2024</a>
+
+- R-BI: Regularized Batched Inputs enhance Incremental Decoding Framework for Low-Latency Simultaneous Speech Translation. *Arxiv 2024*. [[PDF](https://arxiv.org/pdf/2401.05700.pdf)]
 
 
 ## Workshops
