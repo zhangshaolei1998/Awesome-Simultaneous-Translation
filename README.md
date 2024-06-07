@@ -368,7 +368,7 @@ We also collect a paper list organized by different categories. Refer to [Here](
 
 - Decoder-only Streaming Transformer for Simultaneous Translation. *ACL 2024*. [[PDF](https://arxiv.org/pdf/2406.03878)][[Code](https://github.com/ictnlp/DST)]
   
-- A Non-autoregressive Generation Framework for End-to-End Simultaneous Speech-to-Any Translation. *ACL 2024*. [[Code](https://github.com/ictnlp/NAST-S2x)]
+- A Non-autoregressive Generation Framework for End-to-End Simultaneous Speech-to-Any Translation. *ACL 2024*. [[Code](https://github.com/ictnlp/NAST-S2x)][[Project](https://nast-s2x.github.io/)]
   
 - Self-Modifying State Modeling for Simultaneous Machine Translation. *ACL 2024* [[PDF](https://arxiv.org/pdf/2406.02237)][[Code](https://github.com/EurekaForNLP/SM2)]
 
