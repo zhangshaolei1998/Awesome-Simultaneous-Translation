@@ -2,7 +2,7 @@
 
 This repository collects the tookits, common datasets and paper list related to the research on **Simultaneous Translation**. This repository is continuously updating... ![update-badge](https://img.shields.io/github/last-commit/Vily1998/Awesome-Simultaneous-Translation?label=last%20update) 
 
-It is a great honor if this repository brings some help or reference to your research:blush: If you have any suggestions, feel free to contact me with: `zhangshaolei20z@ict.ac.cn`.
+It is a great honor if this repository brings some help or reference to your research:blush: If you have any suggestions, feel free to contact me with: [Shaolei Zhang](https://zhangshaolei1998.github.io/) `zhangshaolei20z@ict.ac.cn`.
 
 <img src="./wordcloud.png" alt="wordcloud" style="zoom: 33%;" />
 
@@ -22,6 +22,8 @@ It is a great honor if this repository brings some help or reference to your res
   - **WMT14 English-French**: 36.3M sentence pairs. [[Link](https://www.statmt.org/wmt14/)]
 - Conventional speech-to-text translation datasets:
   - **MuST-C**: multilingual speech-to-text translation corpus with 8 language pairs. [[Link](https://ict.fbk.eu/must-c)]
+- Conventional speech-to-Speech translation datasets:
+  - **CVSS**: massively multilingual-to-English speech-to-speech translation corpus. [[Link](https://github.com/google-research-datasets/cvss)] 
 - Simultaneous interpretation datasets:
   - **BSTC Chinese-English**: 68 hours. [[Link](https://ai.baidu.com/broad/introduction?dataset=bstc)]
   - **NAIST-SIC English-Japanese**: 22 hours.[[Link](https://dsc-nlp.naist.jp/data/NAIST-SIC/)]
@@ -42,7 +44,7 @@ This is a paper list of Simultaneous Translation, organized by publication year.
 
 We also collect a paper list organized by different categories. Refer to [Here](https://github.com/Vily1998/Awesome-Simultaneous-Translation/blob/main/Papers%20by%20Categories.md).
 
-[2002](#2002) | [2006](#2006) | [2007](#2007) | [2009](#2009) | [2010](#2010) | [2012](#2012) | [2013](#2013) | [2014](#2014) | [2015](#2015) | [2016](#2016) | [2017](#2017) | [2018](#2018) | [2019](#2019) | [2020](#2020) | [2021](#2021) | [2022](#2022) | [2023](#2023) |
+[2002](#2002) | [2006](#2006) | [2007](#2007) | [2009](#2009) | [2010](#2010) | [2012](#2012) | [2013](#2013) | [2014](#2014) | [2015](#2015) | [2016](#2016) | [2017](#2017) | [2018](#2018) | [2019](#2019) | [2020](#2020) | [2021](#2021) | [2022](#2022) | [2023](#2023) | [2024](#2024)
 
 
 
@@ -356,19 +358,39 @@ We also collect a paper list organized by different categories. Refer to [Here](
 
 - Seamless: Multilingual Expressive and Streaming Speech Translation. *Arxiv 2023*. [[PDF](https://arxiv.org/pdf/2312.05187.pdf)][[Code](https://github.com/facebookresearch/seamless_communication)]
 
-- Simul-LLM: A Framework for Exploring High-Quality Simultaneous Translation with Large Language Models. *Arxiv 2023*. [[PDF](https://arxiv.org/pdf/2312.04691.pdf)][[Code](https://github.com/OSU-STARLAB/Simul-LLM)]
-
 - Unified Segment-to-Segment Framework for Simultaneous Sequence Generation. *NeurIPS 2023*. [[PDF](https://arxiv.org/pdf/2310.17940.pdf)][[Code](https://github.com/ictnlp/Seg2Seg)]
 
 - Efficient Monotonic Multihead Attention.*Arxiv 2023*. [[PDF](https://arxiv.org/pdf/2312.04515.pdf)][[Code](https://github.com/facebookresearch/seamless_communication)]
 
+### <a id="2024">2024</a>
+
+- StreamSpeech: Simultaneous Speech-to-Speech Translation with Multi-task Learning. *ACL 2024*. [[PDF](https://arxiv.org/pdf/2406.03049)][[Code](https://github.com/ictnlp/StreamSpeech)][[Project](https://ictnlp.github.io/StreamSpeech-site/)]
+
+- Decoder-only Streaming Transformer for Simultaneous Translation. *ACL 2024*. [[PDF](https://arxiv.org/pdf/2406.03878)][[Code](https://github.com/ictnlp/DST)]
+  
+- A Non-autoregressive Generation Framework for End-to-End Simultaneous Speech-to-Any Translation. *ACL 2024*. [[Code](https://github.com/ictnlp/NAST-S2x)]
+  
+- Self-Modifying State Modeling for Simultaneous Machine Translation. *ACL 2024* [[PDF](https://arxiv.org/pdf/2406.02237)][[Code](https://github.com/EurekaForNLP/SM2)]
+
+- Simul-LLM: A Framework for Exploring High-Quality Simultaneous Translation with Large Language Models. *Arxiv 2023*. [[PDF](https://arxiv.org/pdf/2312.04691.pdf)][[Code](https://github.com/OSU-STARLAB/Simul-LLM)]
+
 - Glancing Future for Simultaneous Machine Translation. *ICASSP 2024*. [[PDF](https://arxiv.org/pdf/2309.06179.pdf)][[Code](https://github.com/ictnlp/Glance-SiMT)]
 
 - LANGUAGE MODEL IS A BRANCH PREDICTOR FOR SIMULTANEOUS MACHINE TRANSLATION. *ICASSP 2024*. [[PDF](https://arxiv.org/pdf/2312.14488.pdf)][[Code](https://github.com/YinAoXiong/simt_branch_predictor)]
-
-### <a id="2024">2024</a>
-
+  
 - R-BI: Regularized Batched Inputs enhance Incremental Decoding Framework for Low-Latency Simultaneous Speech Translation. *Arxiv 2024*. [[PDF](https://arxiv.org/pdf/2401.05700.pdf)]
+  
+- SimulTron: On-Device Simultaneous Speech to Speech Translation. *Arxiv 2024*. [[PDF](https://arxiv.org/pdf/2406.02133)]
+  
+- Recent Advances in End-to-End Simultaneous Speech Translation. *Arxiv 2024*. [[PDF](https://arxiv.org/pdf/2406.00497)]
+  
+- Simultaneous Masking, Not Prompting Optimization: A Paradigm Shift in Fine-tuning LLMs for Simultaneous Translation. *Arxiv 2024*. [[PDF](https://arxiv.org/pdf/2405.10443)]
+  
+- SiLLM: Large Language Models for Simultaneous Machine Translation. *Arxiv 2024*. [[PDF](https://arxiv.org/pdf/2402.13036)][[Code](https://github.com/ictnlp/SiLLM)]
+  
+- Conversational SimulMT: Efficient Simultaneous Translation with Large Language Models. *Arxiv 2024*. [[PDF](https://arxiv.org/pdf/2402.10552)]
+  
+- TransLLaMa: LLM-based Simultaneous Translation System. *Arxiv 2024*. [[PDF](https://arxiv.org/pdf/2402.04636)]
 
 
 ## Workshops
